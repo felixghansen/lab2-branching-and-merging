@@ -15,6 +15,7 @@ This recipe makes a three-layer celebration cake with a filling between each lay
 - 2 teaspoons vanilla extract
 - [CAKE FLAVOUR]
 - [SPECIAL CAKE INGREDIENT]
+- love
 
 ## Filling
 
@@ -63,3 +64,4 @@ This recipe makes a three-layer celebration cake with a filling between each lay
 13. Decorate the cake with [DECORATION].
 
 14. Add [FINISHING TOUCH] just before serving.
+
